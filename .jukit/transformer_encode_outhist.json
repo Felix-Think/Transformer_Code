@@ -1,0 +1,1 @@
+{"W05UQKZ4mK": [], "5EuSlc7r5x": [], "NAtul6jfUD": [], "PwiQILORlX": [], "bIpHo4E0S5": [], "QsjaLe3l4R": [{"output_type": "stream", "name": "stdout", "text": "\n"}, {"output_type": "execute_result", "execution_count": 35, "data": {"text/plain": "torch.Size([32, 100, 128])"}, "metadata": {}}]}
