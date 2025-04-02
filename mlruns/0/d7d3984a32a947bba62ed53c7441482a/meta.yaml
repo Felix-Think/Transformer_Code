@@ -1,0 +1,15 @@
+artifact_uri: file:///home/felix/Projects/Transformer_Application/mlruns/0/d7d3984a32a947bba62ed53c7441482a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d7d3984a32a947bba62ed53c7441482a
+run_name: vit_flowers
+run_uuid: d7d3984a32a947bba62ed53c7441482a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743609790502
+status: 1
+tags: []
+user_id: felix
